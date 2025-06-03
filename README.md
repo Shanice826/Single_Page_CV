@@ -6,3 +6,7 @@ First things first, every website and/or app must be semantic. This is not an if
 
 # Challenges
 Normally I would use HTML or JS in a heartbeat to get rid of the whitespaces for some items but, for the title tags for the education and dates but, wrapping the content in a paragraph tag as I had done with the address, phone number and email by adding a break tag between them did not work. This can be rectified by CSS.
+
+
+https://github.com/user-attachments/assets/501e3d6f-74bb-4c1b-91b3-53c5b0c12850
+
