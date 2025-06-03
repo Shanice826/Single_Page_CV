@@ -10,3 +10,8 @@ Normally I would use HTML or JS in a heartbeat to get rid of the whitespaces for
 
 https://github.com/user-attachments/assets/501e3d6f-74bb-4c1b-91b3-53c5b0c12850
 
+# The project URL
+
+https://roadmap.sh/projects/single-page-cv
+
+This is for the frontend developer side, great website! 😊
